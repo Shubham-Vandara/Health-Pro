@@ -1,0 +1,48 @@
+/* use the download google fonts */
+
+@font-face {
+  font-family: DMSans;
+  src: url(Font_DM_Sans/DMSans-Bold.ttf);
+  src: url(Font_DM_Sans/DMSans-Regular.ttf);
+}
+
+* {
+  font-family: "DMSans";
+  font-weight: normal;
+}
+
+#waving {
+  width: 1rem;
+}
+
+.primary-light {
+  background-color: #f4f6f5;
+}
+
+.blue-color {
+  color: #3548ae;
+}
+.card-body {
+  padding-left: 0;
+}
+
+.nav-link {
+  color: #151e1b;
+  font-weight: bold;
+}
+
+.green-color {
+  background-color: #3bcea3;
+  color: white;
+}
+
+.box {
+  border: 2px solid black;
+  background-color: white;
+}
+
+.fire {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
